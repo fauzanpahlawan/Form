@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Form</string>
+    <string name="name">Name</string>
+    <string name="adress">Adress</string>
+    <string name="button">Button</string>
+    <string name="e_mail">E-Mail</string>
+    <string name="gender">Gender</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="female">Female</string>
+    <string name="male">Male</string>
+    <string name="profile_photo">Profile Photo</string>
+    <string name="back">Back</string>
+</resources>
